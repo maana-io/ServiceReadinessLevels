@@ -1,6 +1,10 @@
 # Service Readiness Levels
 Service Readiness Levels (SRL) are a type of measurement system used to assess the maturity of software services deployed in an orchestration and management platform.  SRL are loosely based on the NASA Technology Readiness Levels.
 
+SRL Calculators for each level are found in the PPTX and PDF files.
+
+Below is summary table of the SRLs and the Dimensions from the Calculators.
+
 | SRL Phase | SRL | Description | Evidence | Documentation | Integration | User Experience | Testing | Availability | 
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | IDEA | Basic research, investigating underlying technologies | Papers | Papers | None | None | None | Individual | 
